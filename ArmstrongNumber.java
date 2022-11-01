@@ -2,7 +2,10 @@ package baisccodingproblems;
 
 import java.util.Scanner;
 
+//Check if the given number is an Armstrong number or not.
+
 public class ArmstrongNumber {
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
